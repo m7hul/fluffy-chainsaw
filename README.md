@@ -29,6 +29,7 @@
 | [0001-two-sum](https://github.com/m7hul/fluffy-chainsaw/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/m7hul/fluffy-chainsaw/tree/master/0027-remove-element) |
 | [1480-running-sum-of-1d-array](https://github.com/m7hul/fluffy-chainsaw/tree/master/1480-running-sum-of-1d-array) |
+| [2974-minimum-number-game](https://github.com/m7hul/fluffy-chainsaw/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,13 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/m7hul/fluffy-chainsaw/tree/master/0258-add-digits) |
+| [2974-minimum-number-game](https://github.com/m7hul/fluffy-chainsaw/tree/master/2974-minimum-number-game) |
+## Sorting
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/m7hul/fluffy-chainsaw/tree/master/2974-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/m7hul/fluffy-chainsaw/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
