@@ -32,6 +32,7 @@
 | [0027-remove-element](https://github.com/m7hul/fluffy-chainsaw/tree/master/0027-remove-element) |
 | [1480-running-sum-of-1d-array](https://github.com/m7hul/fluffy-chainsaw/tree/master/1480-running-sum-of-1d-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/m7hul/fluffy-chainsaw/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/m7hul/fluffy-chainsaw/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/m7hul/fluffy-chainsaw/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/m7hul/fluffy-chainsaw/tree/master/2974-minimum-number-game) |
 ## Hash Table
@@ -56,10 +57,12 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/m7hul/fluffy-chainsaw/tree/master/0013-roman-to-integer) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/m7hul/fluffy-chainsaw/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/m7hul/fluffy-chainsaw/tree/master/0027-remove-element) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/m7hul/fluffy-chainsaw/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Simulation
 |  |
 | ------- |
