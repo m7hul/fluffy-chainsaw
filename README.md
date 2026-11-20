@@ -11,6 +11,7 @@
 | [0507-perfect-number](https://github.com/m7hul/fluffy-chainsaw/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/m7hul/fluffy-chainsaw/tree/master/0509-fibonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/m7hul/fluffy-chainsaw/tree/master/1492-the-kth-factor-of-n) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/m7hul/fluffy-chainsaw/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/m7hul/fluffy-chainsaw/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Dynamic Programming
 |  |
@@ -30,6 +31,7 @@
 | [0001-two-sum](https://github.com/m7hul/fluffy-chainsaw/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/m7hul/fluffy-chainsaw/tree/master/0027-remove-element) |
 | [1480-running-sum-of-1d-array](https://github.com/m7hul/fluffy-chainsaw/tree/master/1480-running-sum-of-1d-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/m7hul/fluffy-chainsaw/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/m7hul/fluffy-chainsaw/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/m7hul/fluffy-chainsaw/tree/master/2974-minimum-number-game) |
 ## Hash Table
